@@ -223,4 +223,4 @@ If you find a bug or have an idea for improving the viewer, open an issue or sub
 
 ## License
 
-Add a license appropriate for your project before publishing the repository.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
